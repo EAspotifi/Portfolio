@@ -143,6 +143,15 @@ export const translations = {
           github: 'https://github.com/EAspotifi/PowerAdmin-AsusStation',
           demo: null, featured: true, status: 'active',
         },
+        {
+          id: 4,
+          title: 'PortKiller — GNOME Shell Extension',
+          description:
+            'Extensión para GNOME Shell orientada a desarrolladores que monitoriza puertos TCP/UDP activos (LISTEN). Permite terminar procesos con un solo clic desde la barra superior, terminación masiva segura, filtros inteligentes para puertos del sistema, contador en la barra y configuración visual.',
+          tech: ['JavaScript', 'GNOME Shell', 'CSS', 'Shell', 'Linux'],
+          github: 'https://github.com/EAspotifi/portkiller',
+          demo: null, featured: true, status: 'completed',
+        },
       ],
     },
 
@@ -366,6 +375,15 @@ export const translations = {
           tech: ['Python', 'PyQt6', 'asusctl', 'supergfxctl', 'system76-power', 'Linux', 'Shell'],
           github: 'https://github.com/EAspotifi/PowerAdmin-AsusStation',
           demo: null, featured: true, status: 'active',
+        },
+        {
+          id: 4,
+          title: 'PortKiller — GNOME Shell Extension',
+          description:
+            'Developer-focused GNOME Shell extension that monitors active TCP/UDP ports (LISTEN). Allows terminating processes with a single click from the top bar, safe mass kill, smart filters for system ports, port counter badge, and visual configuration.',
+          tech: ['JavaScript', 'GNOME Shell', 'CSS', 'Shell', 'Linux'],
+          github: 'https://github.com/EAspotifi/portkiller',
+          demo: null, featured: true, status: 'completed',
         },
       ],
     },

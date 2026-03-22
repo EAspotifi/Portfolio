@@ -120,6 +120,18 @@ export const projects = [
     category: 'desktop',
     status: 'active',
   },
+  {
+    id: 4,
+    title: 'PortKiller — GNOME Shell Extension',
+    description:
+      'Extensión para GNOME Shell orientada a desarrolladores que monitoriza puertos TCP/UDP activos (LISTEN). Permite terminar procesos con un solo clic desde la barra superior, terminación masiva segura, filtros inteligentes para puertos del sistema, contador en la barra y configuración visual.',
+    tech: ['JavaScript', 'GNOME Shell', 'CSS', 'Shell', 'Linux'],
+    github: 'https://github.com/EAspotifi/portkiller',
+    demo: null,
+    featured: true,
+    category: 'desktop',
+    status: 'completed',
+  },
 ];
 
 // ─── EXPERIENCE ──────────────────────────────────────────────────────────────
