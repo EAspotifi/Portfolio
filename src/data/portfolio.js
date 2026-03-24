@@ -191,7 +191,7 @@ export const education = [
   {
     id: 1,
     institution: 'Universidad Nacional de Ingeniería',
-    degree: 'Ingeniería en Computación (Egresado)',
+    degree: 'Ingeniería en Computación',
     period: 'Ene 2020 – Oct 2024',
     location: 'Managua, Nicaragua',
   },
